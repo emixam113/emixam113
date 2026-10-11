@@ -15,6 +15,6 @@
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| **Gestionnaire de Dépenses** | Projet de titre CDA : Application Fullstack avec Docker, typage strict et gestion modulaire. | NestJS, React, TypeScript |
+| **Gestionnaire de Dépenses (web et mobile)** | Projet de titre CDA : Application Fullstack avec Docker, typage strict et gestion modulaire. | NestJS, React, TypeScript |
 | **Bibliothèque Symfony** | API-First robuste pour la gestion de données et la visualisation analytique. | Symfony 7, Doctrine, JWT |
 | **Alternative Google Scholar** | Moteur de recherche scientifique orienté performance et SEO. | Next.js, Tailwind, TypeScript 
